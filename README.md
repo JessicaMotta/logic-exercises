@@ -3,3 +3,6 @@ Repositório destinado a resolução de exercícios para trabalhar minha logica 
 
 Curso: Curso em vídeo
 Lesionado por: Gustavo Guanabara
+
+Progresso atual:
+![Logo do Markdown](img/cursoprint.png)
